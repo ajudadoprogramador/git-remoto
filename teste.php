@@ -1,7 +1,7 @@
 <?php
 	$teste = true;
 	if($teste):
-		echo 'Teste = true';
+		echo 'Tudo certo';
 	else:
-		echo 'Teste = false;
+		echo 'Nada certo';
 	endif;
